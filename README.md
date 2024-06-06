@@ -50,7 +50,7 @@
 <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-gif" /> -->
      <img alt="snake eating my contributions" src="https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif" />
     
-<!-- ![snake gif](https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake gif](https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif)  --> 
   
   <br/><br/><br/>
 </div>
