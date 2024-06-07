@@ -16,7 +16,9 @@
  
 🍉 I currently have a [youtube](https://www.youtube.com/channel/UClbuC979aRHBKdaG0f0ljRw) channel where I post myself programming everyday until I graduate. If you know me from there wasssssuppp <3~
 
-🍉 Fun fact **Watermelons are actually classified as berries!**
+🍉 I am always down to learn something new so feel free to educate me on things I could be doing better~
+
+<!-- 🍉 Fun fact **Watermelons are actually classified as berries!** -->
 
  </div>
  
@@ -45,17 +47,16 @@
 </div>
 
 <br/>
-<hr/>
 
+<!--
 <div align="center">
   <h2>🍒 My Contributions 🍒</h2>
   <br>
-<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-gif" /> -->
-     <img alt="snake eating my contributions" src="https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-gif" 
+     <img alt="snake eating my contributions" src="https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif"
     
-<!-- ![snake gif](https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif)  --> 
-  
-  <br/><br/><br/>
+ ![snake gif](https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif)  --> 
+  <br/>
 </div>
 
 <hr/>
@@ -63,24 +64,25 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+
+<!--
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  -->
+  ![john48k GitHub stats](https://github-readme-stats.vercel.app/api?username=john48k&hide=contribs,prs)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john48k)](https://github.com/john48k/github-readme-stats)
 </div>
 
-<br/><br/>
-
+<br/>
 <hr/>
 
-<br/>
 
 <div align="center">
 
 ![shadow](https://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1)
-
-
-
 <!-- <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 </div>
 <br/>
