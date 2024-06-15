@@ -14,11 +14,11 @@
  
  🍉 I’m currently learning **Python, React.js, Three.js, TypeScript,**
  
-🍉 I currently have a [youtube](https://www.youtube.com/channel/UClbuC979aRHBKdaG0f0ljRw) channel where I post myself programming everyday until I graduate. If you know me from there wasssssuppp <3~
+🍉 I currently have a [youtube](https://www.youtube.com/channel/UClbuC979aRHBKdaG0f0ljRw) channel where I post myself programming everyday until I graduate. If you know me from there wasssssuppp lol~
 
 🍉 I am always down to learn something new so feel free to educate me on things I could be doing better~
 
-<!-- 🍉 Fun fact **Watermelons are actually classified as berries!** -->
+
 
  </div>
  
