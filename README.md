@@ -82,7 +82,9 @@
 
 <div align="center">
 
-![shadow](https://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1)
+<!-- ![shadow](https://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1) -->
+![zelda](https://github.com/john48k/john48k/assets/126651207/e1151527-b2d8-4782-8ef5-5b86a3ed5a13)
+
 <!-- <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 </div>
 <br/>
