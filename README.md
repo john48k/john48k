@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
- 
+ <!--
  🍉I am currently going into my junior year of my bachelors in Information Technology**
  
  🍉 I’m currently learning **Python, React.js, Three.js, TypeScript,** on my freetime**
  
 🍉 I currently have a [youtube](https://www.youtube.com/channel/UClbuC979aRHBKdaG0f0ljRw) channel where I post myself programming everyday until I graduate. If you know me from there wasgood lol~
-<!--
+
 🍉 I am always down to learn something new so feel free to educate me on things I could be doing better~
 -->
 
