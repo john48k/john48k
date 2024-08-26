@@ -57,6 +57,18 @@
     
  ![snake gif](https://github.com/john48k/john48k/blob/output/github-contribution-grid-snake.gif)  --> 
   <br/>
+  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,discord,ableton"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,react,html,css,notion,git,figma"/><br>
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,java,mysql,php,kotlin"/><br>
+    
+
+</div>
+
+<br/>
 </div>
 
 <hr/>
