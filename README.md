@@ -94,10 +94,9 @@
 
 <div align="center">
 
-<!-- ![shadow](https://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1) -->
-
-
-
+<!-- ![shadow](https![video games nintendo GIF](https://github.com/user-attachments/assets/e023b52a-fb69-4ea2-9552-5956eb9ac8aa)
+://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1) -->
+![video games nintendo GIF](https://github.com/user-attachments/assets/28c69330-b586-426d-9c07-07dab864081c)
 
 
 
