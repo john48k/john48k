@@ -95,8 +95,11 @@
 <div align="center">
 
 <!-- ![shadow](https://github.com/john48k/john48k/assets/126651207/f2b10747-1350-4cf0-ba7f-c9aa3f87f4a1) -->
-![zelda](https://github.com/john48k/john48k/assets/126651207/e1151527-b2d8-4782-8ef5-5b86a3ed5a13)
-![meth](https://github.com/user-attachments/assets/9a24e202-b1f2-4298-9c7c-ee79435df70d)
+
+
+
+
+
 
 
 
